@@ -7,6 +7,13 @@
  The greeting should read: "Hello! My name is Carlos Stevenson and I am 18 years old."
 */
 
+let firstName = "Carlos"
+let lastName = "Stevenson"
+let currYear = 1965
+let birthYear = 1947
+
+const greeting = `Hello! My name is ${firstName} ${lastName} and I am ${currYear - birthYear} years old.`
+
 // Add your code right below, good luck!
 
 
